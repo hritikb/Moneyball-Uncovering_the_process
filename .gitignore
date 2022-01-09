@@ -1,0 +1,9 @@
+.ipynb_checkpoints/
+Reading/
+Reference/
+*.zip
+*.pdf
+!DSE_19141_Hritik Bana_Project_Moneyball_Report.pdf
+*.mp4
+*.pptx
+*.docx
